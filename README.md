@@ -10,7 +10,7 @@
 
 ### 🧠 About Me
 - 🔍 Interested in **Machine Learning**, **Computer Vision**, and **Full-Stack Development**  
-- 💻 Skilled in **Python**, **Django**, **JavaScript**, **Flutter**, and **YOLO**  
+- 💻 Skilled in **Python**, **Django**, **JavaScript**, and **YOLO**  
 - 🌱 Currently improving my **backend and AI integration** skills  
 - 🎯 Goal: To build intelligent, impactful software that solves real-world problems  
 
