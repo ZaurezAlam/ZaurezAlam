@@ -3,6 +3,7 @@
 🎓 Computer Science Graduate from DHA Suffa University  
 💡 Passionate about AI, Computer Vision, and Web Development  
 🚀 Completed my Final Year Project: **Vehicle Smoke Detection System** — a YOLO-based system for detecting smoke-emitting vehicles and recognizing number plates
+
 📫 How to reach me: [zaurezalam@gmail.com](mailto:zaurezalam@gmail.com)
 
 ---
