@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Zaurez Alam Khan
 
-🎓 Final Year Computer Science Student at DHA Suffa University  
+🎓 Computer Science Graduate from DHA Suffa University  
 💡 Passionate about AI, Computer Vision, and Web Development  
-🚀 Currently working on my Final Year Project: **Vehicle Smoke Detection System**  
+🚀 Completed my Final Year Project: **Vehicle Smoke Detection System** — a YOLO-based system for detecting smoke-emitting vehicles and recognizing number plates
 📫 How to reach me: [zaurezalam@gmail.com](mailto:zaurezalam@gmail.com)
 
 ---
