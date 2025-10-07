@@ -23,9 +23,9 @@
 ---
 
 ### 🧩 Featured Projects
-- 🚗 **[Vehicle Smoke Detection System](https://github.com/ZaurezAlam/Vehicle-Smoke-Detection)** — YOLO + EasyOCR-based system for identifying smoke-emitting vehicles and number plates  
+- 🚗 **[Vehicle Smoke Detection System](https://github.com/ZaurezAlam/smoke_veHicle_dashboard)** — YOLO + EasyOCR-based system for identifying smoke-emitting vehicles and number plates  
 - 🛍️ **[E-Shop Fullstack](https://github.com/ZaurezAlam/E-Shop-Fullstack)** — A full-stack eCommerce website with cart, CRUD, and user auth  
-- 🎬 **[Movie App](https://github.com/ZaurezAlam/Movie-App)** — React app using Movie API to display top movies and favourites  
+- 🎬 **[Movie App](https://github.com/ZaurezAlam/React_Movie_Project)** — React app using Movie API to display top movies and favourites  
 
 ---
 
