@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zaurez Alam Khan
 
-🎓 Computer Science Graduate from DHA Suffa University  
+🎓 Software Engineer Graduate from DHA Suffa University  
 💡 Passionate about AI, Computer Vision, and Web Development  
 🚀 Completed my Final Year Project: **Vehicle Smoke Detection System** — a YOLO-based system for detecting smoke-emitting vehicles and recognizing number plates
 
@@ -18,14 +18,14 @@
 
 ### 🛠️ Tech Stack
 **Languages:** Python, JavaScript,  HTML, CSS  
-**Frameworks/Libraries:** Django, FastAPI, React,  YOLOv8, OpenCV  
-**Tools:** Git, GitHub, VS Code, Jupyter, Figma  
+**Frameworks/Libraries:** Django, FastAPI, React,  YOLOv8, OpenCV , Bootstrap 
+**Tools:** Git, GitHub, VS Code, Google Colab, Figma  
 
 ---
 
 ### 🧩 Featured Projects
 - 🚗 **[Vehicle Smoke Detection System](https://github.com/ZaurezAlam/smoke_veHicle_dashboard)** — YOLO + EasyOCR-based system for identifying smoke-emitting vehicles and number plates  
-- 🛍️ **[E-Shop Fullstack](https://github.com/ZaurezAlam/E-Shop-Fullstack)** — A full-stack eCommerce website with cart, CRUD, and user auth  
+- 🛍️ **[E-Shop Fullstack](https://github.com/ZaurezAlam/E-Shop-Fullstack)** — A full-stack eCommerce website with cart and user auth  
 - 🎬 **[Movie App](https://github.com/ZaurezAlam/React_Movie_Project)** — React app using Movie API to display top movies and favourites  
 
 ---
