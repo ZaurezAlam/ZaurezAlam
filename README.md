@@ -17,9 +17,9 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python, JavaScript,  HTML, CSS  
-**Frameworks/Libraries:** Django, FastAPI, React,  YOLOv8, OpenCV , Bootstrap 
-**Tools:** Git, GitHub, VS Code, Google Colab, Figma  
+**Languages:** Python, JavaScript, HTML, CSS <br>
+**Frameworks/Libraries:** Django, FastAPI, React, YOLOv8, OpenCV, Bootstrap <br>
+**Tools:** Git, GitHub, VS Code, Google Colab, Figma
 
 ---
 
