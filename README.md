@@ -10,8 +10,7 @@
 
 ### 🧠 About Me
 - 🔍 Interested in **Machine Learning**, **Computer Vision**, and **Frontend Development**  
-- 💻 Skilled in **Python**, **JavaScript**, and **YOLO**  
-- 🌱 Currently improving my **backend and AI integration** skills  
+- 💻 Skilled in **Python**, **JavaScript**, and **YOLO**    
 - 🎯 Goal: To build intelligent, impactful software that solves real-world problems  
 
 ---
