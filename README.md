@@ -9,7 +9,7 @@ Software Engineering graduate from DHA Suffa University with a focus on scalable
 
 ### Professional Summary
 * **CMS & E-commerce:** Specialized in end-to-end development and optimization of storefronts using **Shopify (Liquid)** and **WordPress (Elementor)**.
-* **Full-Stack Development:** Proficient in the **MERN** stack and **Django/FastAPI**, with a focus on SEO-optimized architecture and clean code.
+* **Full-Stack Development:** Proficient in the **Django/FastAPI**, with a focus on SEO-optimized architecture and clean code.
 * **Artificial Intelligence:** Expert in Computer Vision applications, specifically **YOLO** and **OpenCV** for real-time detection and automation.
 
 ---
